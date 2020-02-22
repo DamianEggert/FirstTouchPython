@@ -3,7 +3,7 @@ print("Hello")
 name = "Damian"
 age = 22
 
-#obe zmienne musza byc stringiem aby moc je dodac
+#obie zmienne musza byc stringiem aby moc je dodac
 print(name + str(age))
 
 monitor = input("Wprowadz nazwe monitora: \n")
