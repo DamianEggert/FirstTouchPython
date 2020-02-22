@@ -1,3 +1,4 @@
 #foldery projektu
 /.idea
 /venv
+/__pycache__
