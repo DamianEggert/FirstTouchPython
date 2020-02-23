@@ -18,4 +18,4 @@ for index in range(10):
     if index <= 5:
         print("Yes")
     else:
-        print("No")
+        print("Noo")
